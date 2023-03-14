@@ -11,3 +11,7 @@ The essence of this project is to learn more about Zenject.
 
 # Overview
 This is a very simple project in which you play as a green capsule and can walk on the platform by clicking on it with your mouse. When you touch the red capsules (enemies), they immediately disappear and the player loses health points.
+
+# Gameplay video
+https://user-images.githubusercontent.com/80330854/225130571-81a98fec-2aa3-422d-b574-ddaf8e52cffa.mp4
+
